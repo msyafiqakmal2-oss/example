@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CODING DAY</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --neon: #00ffee;
+  --bg: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Orbitron', sans-serif;
+}
+
+body {
+  background: radial-gradient(circle at top,  #0a0a20, var(--bg));
+  color: white;
+  min-height: 100vh;
+  overflow-x: hidden ;
+}
+
+/* NAV */
+nav {
+  position: fixed;
+  width: 100%;
+  padding: 20px 60px;
+  display: flex;
+  justify-content: space-between;
+  backdrop-filter: blur(10px);
+  z-index: 10;
+}
+
+nav h1 {
+  color: var(--neon);
+  letter-spacing: 3px;
+}
+
+nav a {
+  color: white;
+  margin-left: 30px;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+nav a:hover {
+  opacity: 1;
+  color: var(--neon);
+}
+
+/* HERO */
+.hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 3.5rem;
+  animation: glow 2s infinite alternate;
+}
+
+.hero p {
+  margin-top: 20px;
+  opacity: 0.8;
+}
+
+button {
+  margin-top: 40px;
+  padding: 15px 40px;
+  background: transparent;
+  border: 2px solid var(--neon);
+  color: var(--neon);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: var(--neon);
+  color: black;
+  box-shadow: 0 0 30px var(--neon);
+}
+
+/* SECTIONS */
+section {
+  padding: 120px 80px;
+}
+
+.card {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0,255,240,0.1);
+}
+button {
+  margin-top: 40px;
+  padding: 15px 40px;
+  background: transparent;
+  border: 2px solid var(--neon);
+  color: var(--neon);
+  cursor: pointer;
+  transition: 0.3s;
+  text-align: center;
+}
+.btn-center {
+    text-align: center;
+}
+/* ANIMATION */
+@keyframes glow {
+  from { text-shadow: 0 0 10px var(--neon); }
+  to { text-shadow: 0 0 40px var(--neon); }
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  nav { padding: 20px; }
+  .hero h2 { font-size: 2.2rem; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <h1>NPC TEAM</h1>
+  <div>
+    <a href="#about">About</a>
+    <a href="#tech">Lesson</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
+<div class="hero">
+  <div>
+    <h2>INFORMATIC ENGINEERING</h2>
+    <p>at University of Darussalam Gontor</p>
+    <button onclick="alert('Welcome To My Website Made By Syafiq & Rizky 🚀')">Check</button>
+  </div>
+</div>
+<section id="about">
+  <div class="card">
+    <h3>About Informatic Engineering</h3>
+    <br>
+    <p>In Indonesian Language Is Teknik Informatika , Teknik Informatika adalah 
+        bidang ilmu yang mempelajari bagaimana komputer bekerja, bagaimana data diproses,
+         dan bagaimana software dibuat untuk menyelesaikan masalah manusia.<br> Adanya Teknik Informatika 
+         Ini Masuk Di Universitas Darussalam Gontor Tahunn 2016 Bertepatan Dengan Beralihnya UNIDA Yang Sebelumnya 
+         Bernama ISID Tujuannya Agarr Mahasiswa Dapat Bisa Lebih Jauh Mendalami Ilmu Ilmu Yang Lain Yaitu Ilmu Teknik Informatika
+          Yang Ada DI UNIDA Ini Agar Juga Adanya Peningkatan Di Era Digital Ini Untuk Memahami Suatu Informasi dan Komunikasi Atau 
+          Tekhnikal Yang Ada Di Zaman Sekarang Ini</p>
+          <div class="btn-center">
+            <button onclick="window.location.href='ApaDia.html'">Others</button>
+          </div>
+  </div>
+</section>
+<section id="tech">
+   <div class="card">
+    <h3>Lesson</h3>
+    <ul>
+        <li>Aljabar Linear</li>  <li>Organisasi Dan Arsitektur Komputer</li>
+        <li>Matematika Diskrit</li>  <li>Basis Data</li>
+        <li>Kalkulus</li>
+        <li>Algoritma dan Pemograman</li>
+    </ul>
+     <div class="btn-center">
+            <button onclick="window.location.href='Lesson.html'">Others</button>
+          </div>
+  </div>
+</section>
+<section id="contact">
+  <div class="card">
+    <h3>Contact Syafiq Akmal & Rizky Atthariq</h3>
+    <p>@Syafiq_kbu <br> +6285705402470 <br> @tthrq.r <br> +6281362389125</p>
+     <div class="btn-center">
+            <button onclick="window.location.href='https://www.instagram.com/syafiq_kbu/'">Syafiq</button>
+            <button onclick="window.location.href='https://www.instagram.com/tthrq.r/'">Rizky</button>
+          </div>
+  </div>
+  </div>
+</section>
+
+</body>
+</html>
