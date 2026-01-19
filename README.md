@@ -1,0 +1,1 @@
+This is my project for Coding Day in Semester 2. I didn't really do it with much intention and I just made it as it was, the important thing in my opinion was to collect it and in the future I will correct all my mistakes and I will develop more in the future. Thank you.
