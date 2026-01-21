@@ -1,1 +1,2 @@
 This is my project for Coding Day in Semester 2. I didn't really do it with much intention and I just made it as it was, the important thing in my opinion was to collect it and in the future I will correct all my mistakes and I will develop more in the future. Thank you.
+In the next year or next semester, I will really swear to win the coding day competition held by the HIMATIF event and Bismillah I will get an achievement from Coding Day Bismillah I will really try to get an award from Coding Day
