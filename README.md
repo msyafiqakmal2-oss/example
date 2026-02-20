@@ -8,11 +8,12 @@ Ok In This Repository We Can Start from index.html
 
 And As we know has a blue neon theme and this is the website that i use for coding day events and on this website it is about what informatics engineering is and what lesson are there in informatics engineering and also i dont forget to put my personal data together with my friend along with the social media that we have like instagram or whatsaap , My Team in this website the name is NPC team . this is website maked with syafiq and rizky 
 
-   And if we press about at the top of the website it will take us to a cool guide about what informnatics engineering is
+  1. And if we press about at the top of the website it will take us to a cool guide about what informnatics engineering is
 
-   And if we press the lesson it will lead to an explanation of what informatics engineering is and also the many lessons in informatics engineering and there are also conclusions from all of  that 
+  2. And if we press the lesson it will lead to an explanation of what informatics engineering is and also the many lessons in informatics engineering and there are also conclusions from all of  that 
 
-   And if we press contact in the top corner, there will be the creators biodata whether from whatsaap or instagram so if yoi have found it plase follow his istagram, hehe 
+   3. And if we press contact in the top corner, there will be the creators biodata whether from whatsaap or instagram so if yoi have found it plase follow his istagram, hehe 
 
+And Now the other website is the only part or in the website or article content of the website from index.html 
    
 
