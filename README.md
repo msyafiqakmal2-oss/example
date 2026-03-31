@@ -12,7 +12,7 @@ And As we know has a blue neon theme and this is the website that i use for codi
 
   2. And if we press the lesson it will lead to an explanation of what informatics engineering is and also the many lessons in informatics engineering and there are also conclusions from all of  that 
 
-   3. And if we press contact in the top corner, there will be the creators biodata whether from whatsaap or instagram so if yoi have found it plase follow his istagram, hehe 
+   3. And if we press contact in the top corner, there will be the creators biodata whether from whatsaap or instagram so if yoi have found it plase follow his istagram, hehe and letss goo too bee improve go to the highh progammer
 
 And Now the other website is the only part or in the website or article content of the website from index.html 
    
