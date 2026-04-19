@@ -16,5 +16,5 @@ And As we know has a blue neon theme and this is the website that i use for codi
 
 And Now the other website is the only part or in the website or article content of the website from index.html 
    
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/33284d6b-b850-4520-8084-62eb490f0ae7" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/33284d6b-b850-4520-8084-62eb490f0ae7" />
 
